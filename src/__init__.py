@@ -1,0 +1,1 @@
+# POS Minimarket source package
